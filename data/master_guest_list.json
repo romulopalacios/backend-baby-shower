@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1",
+        "nombre_mostrar": "Familiar 1",
+        "telefono": "09874 2139",
+        "cupos_totales": 3,
+        "estado_rsvp": "confirmado",
+        "asistentes_confirmados": 1
+    },
+    {
+        "id": "2",
+        "nombre_mostrar": "Familia Paredes Mero",
+        "telefono": "593 97 874 2139",
+        "cupos_totales": 5,
+        "estado_rsvp": "confirmado",
+        "asistentes_confirmados": 2,
+        "restricciones_alimentarias": "CAMARONES"
+    }
+]

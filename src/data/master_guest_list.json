@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "nombre_mostrar": "Familia Palacios Rivas",
+        "telefono ": "593 97 874 2139",
+        "cupos": "3"
+    },
+    {
+        "id": "2",
+        "nombre_mostrar": "Familia Paredes Mero",
+        "telefono ": "593 97 874 2139",
+        "cupos": "5"
+    }
+]
